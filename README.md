@@ -1,4 +1,4 @@
 Maths
 =====
 
-math stuff i find useful
+math stuff I find useful
